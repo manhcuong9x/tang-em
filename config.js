@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: '🖐🖐🖐 Hello Quỳnh ! 🖐🖐🖐',
     introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
     btnIntro: 'OK',
-    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
+    title: 'Anh biết Em thích Anh phải không ? 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
     btnYes: 'Có, em thật sự thích anh 💖💖💖',
     btnNo: '💔 Anh mơ à ! 💔 ',
